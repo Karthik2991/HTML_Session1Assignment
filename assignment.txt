@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Assignment 1</title>
+</head>
+<body>
+<h1>First Heading</h1><br>
+<div>First <u>Paragraph</u></div><br>
+<div>Second <i> Paragraph</i></div><br>
+<div>Third <b>Paragraph</b></div><br>
+<h2>Second Heading</h2>
+<img src="Desert.jpg" width=200 height=200/>
+<img src="C:\Users\HOME\Downloads\Hydrangeas.jpg" width=200 height=200/> 
+<img src="C:\Users\HOME\Downloads\Tulips.jpg" width=200 height=200/><br>
+<br>
+<div>Second <i>Paragraph</i></div><br>
+<div>Third <b> paragraph</b></div><br>
+</body>
+</html>
